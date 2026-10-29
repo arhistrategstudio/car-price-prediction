@@ -1,0 +1,5 @@
+Formula: base + 4 člana:
+log(price) = base(brand_model) +9.850 -0.1002*age +0.1862*log(liters+1) -0.6643*damaged -0.0013*age*km
+
+Symbolic GP (gplearn):
+log(price) = base(brand_model) + sub(div(mul(liters, -1.456), mul(liters, -0.136)), add(div(0.242, sub(div(0.242, div(age, 1.309)), mul(age, -0.122))), add(damaged, sub(div(-0.032, -0.147), mul(age, -0.122)))))

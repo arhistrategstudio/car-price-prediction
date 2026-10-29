@@ -1,0 +1,13 @@
+make,model,year,mileage_km,stvarna_cena,predvidjena_cena,greska,greska_%
+toyota,corolla-verso,2005,350000.0,7250,7149.0,101.0,1.4
+skoda,octavia,2009,159000.0,7800,7260.0,540.0,6.9
+lada-vaz,xray,2019,2500.0,11450,11964.0,514.0,4.5
+volkswagen,golf,1996,120000.0,808,1577.0,769.0,95.2
+infiniti,fx,2011,120000.0,19750,18882.0,868.0,4.4
+nissan,primera,1997,300000.0,1188,1626.0,438.0,36.9
+renault,megane,1998,380000.0,2000,1482.0,518.0,25.9
+toyota,corolla,1996,271000.0,1590,1274.0,316.0,19.9
+volkswagen,passat,2008,142000.0,8300,8077.0,223.0,2.7
+volkswagen,golf-plus,2011,130600.0,7700,8171.0,471.0,6.1
+chevrolet,trax,2017,36000.0,14900,13790.0,1110.0,7.4
+renault,megane,2004,480000.0,3325,3158.0,167.0,5.0

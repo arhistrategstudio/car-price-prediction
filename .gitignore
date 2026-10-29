@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+# Međurezultati se regenerišu skriptama (data/processed, reports) - verzionišemo ih
+# da bi repozitorijum bio pregledan bez pokretanja, ali ne i privremene fajlove
+*.tmp
+
+# Regenerišu se skriptama (19 MB), nisu u repozitorijumu:
+data/processed/*.csv

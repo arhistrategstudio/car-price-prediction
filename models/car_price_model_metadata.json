@@ -1,0 +1,45 @@
+{
+  "model_name": "HistGradientBoosting",
+  "target": "priceUSD",
+  "target_scale": "log",
+  "features": {
+    "numeric": [
+      "car_age",
+      "mileage_km",
+      "volume_cm3",
+      "mileage_per_year"
+    ],
+    "onehot": [
+      "make",
+      "condition",
+      "fuel_type",
+      "color",
+      "transmission",
+      "drive_unit",
+      "segment"
+    ],
+    "target_encoded": [
+      "brand_model"
+    ],
+    "all": [
+      "car_age",
+      "mileage_km",
+      "volume_cm3",
+      "mileage_per_year",
+      "make",
+      "condition",
+      "fuel_type",
+      "color",
+      "transmission",
+      "drive_unit",
+      "segment",
+      "brand_model"
+    ]
+  },
+  "reference_year": 2019,
+  "train_rows": 44135,
+  "train_time_s": 8.4,
+  "trained_at_utc": "2026-10-29T08:29:25+00:00",
+  "sklearn_version": "1.9.1",
+  "random_state": 42
+}

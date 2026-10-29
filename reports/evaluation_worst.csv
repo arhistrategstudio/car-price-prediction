@@ -1,0 +1,9 @@
+make,model,year,condition,mileage_km,volume_cm3,stvarna_cena,predvidjena_cena,greska
+land-rover,range-rover,2018,with mileage,23301.0,2000.0,118000,30950.0,87050.0
+bentley,mulsanne,2011,with mileage,178471.0,6800.0,120000,38232.0,81768.0
+tesla,model-3,2019,with mileage,50.0,0.0,86353,27126.0,59227.0
+mercedes-benz,s-klass,2017,with mileage,8500.0,3000.0,105000,65434.0,39566.0
+mercedes-benz,e-klass,2017,with mileage,140000.0,3000.0,79500,42688.0,36812.0
+land-rover,defender,2014,with mileage,39000.0,2200.0,55000,23886.0,31114.0
+bmw,7-seriya,2018,with mileage,37000.0,3000.0,87000,57787.0,29213.0
+bmw,7-seriya,2018,with mileage,47000.0,2993.0,85000,56218.0,28782.0

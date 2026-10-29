@@ -1,0 +1,23 @@
+{
+  "rows_raw": 56244,
+  "duplicates_removed": 87,
+  "condition_for_parts": 454,
+  "make_eksklyuziv": 55,
+  "year_out_of_range": 244,
+  "price_below_min": 235,
+  "mileage_set_nan_too_high": 357,
+  "mileage_set_nan_placeholder": 673,
+  "mileage_set_nan_too_low": 2332,
+  "volume_typo_fixed": 87,
+  "volume_set_nan": 0,
+  "volume_electric_set_zero": 45,
+  "segment_filled_from_model": 29,
+  "segment_set_unknown": 5030,
+  "drive_unit_filled_from_model": 1805,
+  "drive_unit_set_unknown": 7,
+  "rows_clean": 55169,
+  "rows_removed_total": 1075,
+  "missing_after_cleaning": {
+    "mileage_km": 3362
+  }
+}

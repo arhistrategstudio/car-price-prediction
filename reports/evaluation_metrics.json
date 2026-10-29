@@ -1,0 +1,17 @@
+{
+  "model": "HistGradientBoosting",
+  "test_rows": 11034,
+  "metrics": {
+    "MAE": 1022.854922046693,
+    "MSE": 5375983.7821856495,
+    "RMSE": 2318.616782089194,
+    "R2": 0.9141894911074016,
+    "MedAPE": 0.11903473735708439
+  },
+  "interval": {
+    "coverage": 0.7711618633315207,
+    "median_width_usd": 2148.725212632319,
+    "median_relative_width": 0.5761400147250677
+  },
+  "median_test_price": 5500.0
+}
